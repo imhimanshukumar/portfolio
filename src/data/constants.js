@@ -10,7 +10,7 @@ export const Bio = {
     "Welcome to my portfolio! I'm a passionate frontend and full-stack developer ready to make waves in the tech industry. Through my projects, you'll see my knack for crafting engaging user experiences with React.js, Redux, and Tailwind CSS, alongside seamless functionality using Spring Boot. Explore how I blend creativity and technical expertise to solve real-world challenges. Let's build the future, one line of code at a time.",
   github: "https://github.com/imhimanshukumar",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1hGpKe6RlytVIvgckdKn69_A-N18uO9n5/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/himanshu-singh-063829166/",
   twitter: "https://twitter.com/mehimanshusingh",
   insta: "https://www.instagram.com/imhimanshusingh/",
